@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shekhar Gulati Book Reviews </title>
+    <title>Mr Broaddus&#39; Odds n&#39; Ends </title>
     <link>https://colemanbroad.github.io/bookshelf/index.xml</link>
     <language>en-us</language>
-    <author>Shekhar Gulati</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-02-14 16:11:58 &#43;0530 &#43;0530</updated>
+    <author>Coleman Broaddus</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-07-12 13:38:55 -0100 -0100</updated>
 
     
       
         <item>
-          <title>Good to Great Book Review</title>
-          <link>https://colemanbroad.github.io/bookshelf/post/good-to-great/</link>
-          <pubDate>Sun, 14 Feb 2016 16:11:58 &#43;0530</pubDate>
-          <author>Shekhar Gulati</author>
-          <guid>https://colemanbroad.github.io/bookshelf/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+          <title>Using public nutrition data</title>
+          <link>https://colemanbroad.github.io/bookshelf/post/fodmap/</link>
+          <pubDate>Wed, 12 Jul 2017 13:38:55 -0100</pubDate>
+          <author>Coleman Broaddus</author>
+          <guid>https://colemanbroad.github.io/bookshelf/post/fodmap/</guid>
+          <description>&lt;p&gt;The US Department of Agriculture&amp;rsquo;s Agricultural Research Service hosts a fantastic resource for food and nutritional information in its &lt;strong&gt;USDA Food Composition Databases&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;[&lt;a href=&#34;https://ndb.nal.usda.gov/ndb/search/list&#34;&gt;https://ndb.nal.usda.gov/ndb/search/list&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;Here we can find detailed, comprehensive nutritional information from over 200k foods, including the relative content of the mono- and oligo- saccharides which are important in the &lt;a href=&#34;http://www.ibsdiets.org/fodmap-diet/&#34;&gt;FODMAP&lt;/a&gt; diet.&lt;/p&gt;
 </description>
         </item>
       
